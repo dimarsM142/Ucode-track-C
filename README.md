@@ -121,4 +121,8 @@ Distance: 4$
 ========================================$
  ```
   <h2> UcodeConnect-Uls-C </h2>
+  <h5>Total mark 100</h5>
+  <h5>Works only for macOS. This program works as a standard ls program in the MACOS console.</h5>
   <h2> UcodeConnect-Ush-C <h2>
+  <h5>Total mark 100</h5>
+  <h5>Works only for macOS. This program works like a standard macOS console.</h5>  
